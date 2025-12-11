@@ -77,9 +77,17 @@ Includes <strong>Razorpay payment gateway</strong>,
   
 </ul>
 
+<h2>Demo Video 🎬</h2>
 
 
 <hr/>
+
+
+
+
+
+https://github.com/user-attachments/assets/f687dc6b-c4ec-4617-a88f-4862b92de287
+
 
 <h2>👩‍💻 Author</h2>
 <p>
