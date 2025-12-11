@@ -80,13 +80,11 @@ Includes <strong>Razorpay payment gateway</strong>,
 <h2>Demo Video 🎬</h2>
 
 
+https://github.com/user-attachments/assets/5d409023-57dc-4354-823b-90ede6fabb05
+
+
+
 <hr/>
-
-
-
-
-
-
 
 
 <h2>👩‍💻 Author</h2>
